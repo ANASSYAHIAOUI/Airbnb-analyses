@@ -3,6 +3,7 @@
 
 
 
+![Dashboard Preview](./shema.png)
 
 
 
